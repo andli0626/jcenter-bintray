@@ -71,7 +71,7 @@ bintray {
 
     configurations = ['archives']
     pkg {
-        repo = "maven"
+        repo = "test"
         name = PROJ_NAME
         websiteUrl = PROJ_WEBSITEURL
         vcsUrl = PROJ_VCSURL
